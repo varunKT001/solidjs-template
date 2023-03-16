@@ -1,0 +1,6 @@
+tabs: ['src/App.jsx']
+playground-view: terminal-editor-browser
+live-reload-browser: true
+terminal-one: |
+    npm install
+    npm run dev
